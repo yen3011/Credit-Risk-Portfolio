@@ -32,9 +32,7 @@ The project began with a raw dataset comprising **32,581 records and 29 columns*
 * **EDA & Visualization:** Utilized Boxplots and Scatter plots to analyze distributions, skewness, and feature correlations.
 * **Final Cleaned Dataset:** Resulted in **31,679 records and 29 features**.
 
-
-
-
+<img width="220" height="400" alt="image" src="https://github.com/user-attachments/assets/b57e5457-2bb0-471f-bda7-83a30f9bca93" />
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/c55cac51-a2b7-456d-882e-10cb5015b7ca" />
 <img width="570" height="370" alt="Screenshot 2026-04-23 at 11 39 29" src="https://github.com/user-attachments/assets/30ffaf02-13d8-4081-8272-26e4cb339a13" /><img width="570" height="450" alt="Screenshot 2026-04-23 at 11 51 14" src="https://github.com/user-attachments/assets/68dc9c25-1486-4f56-a1f0-f8e1d698c81d" />
 
