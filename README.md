@@ -33,8 +33,12 @@ The project began with a raw dataset comprising **32,581 records and 29 columns*
 * **Final Cleaned Dataset:** Resulted in **31,679 records and 29 features**.
 
 <img width="250" height="420" alt="image" src="https://github.com/user-attachments/assets/b57e5457-2bb0-471f-bda7-83a30f9bca93" />
+</br>
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/c55cac51-a2b7-456d-882e-10cb5015b7ca" />
-<img width="570" height="370" alt="Screenshot 2026-04-23 at 11 39 29" src="https://github.com/user-attachments/assets/30ffaf02-13d8-4081-8272-26e4cb339a13" /><img width="570" height="450" alt="Screenshot 2026-04-23 at 11 51 14" src="https://github.com/user-attachments/assets/68dc9c25-1486-4f56-a1f0-f8e1d698c81d" />
+</br>
+<img width="570" height="370" alt="Screenshot 2026-04-23 at 11 39 29" src="https://github.com/user-attachments/assets/30ffaf02-13d8-4081-8272-26e4cb339a13" />
+</br>
+<img width="570" height="450" alt="Screenshot 2026-04-23 at 11 51 14" src="https://github.com/user-attachments/assets/68dc9c25-1486-4f56-a1f0-f8e1d698c81d" />
 
 
 
@@ -62,8 +66,11 @@ The **XGBoost model** delivered exceptional predictive performance:
 
   
 <img width="350" height="180" alt="image" src="https://github.com/user-attachments/assets/b7e73fd7-778b-418f-926e-65a64c3ea03e" />
+</br>
 <img width="600" height="400" alt="Screenshot 2026-04-23 at 13 14 38" src="https://github.com/user-attachments/assets/1168f35e-b49b-4d78-9605-bee146d36ae4" />
+</br>
 <img width="600" height="396" alt="Screenshot 2026-04-23 at 12 26 09" src="https://github.com/user-attachments/assets/924b8ccd-941d-4f41-8cc8-5704d1738624" />
+</br>
 <img width="600" height="393" alt="image" src="https://github.com/user-attachments/assets/f1a1dd4e-b805-4af8-8ea5-a115b857297c" />
 
 ---
